@@ -1,6 +1,6 @@
 # Cybersecurity-Assessment-Week-one
 
-Common examples of threats to an organization's physical facilities domain
+1. Common examples of threats to an organization's physical facilities domain
 
-Design a cybersecurity awareness poster 
+2. Design a cybersecurity awareness poster 
 
